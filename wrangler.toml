@@ -1,4 +1,4 @@
-name = "mylzy-edgetunnel"
+name = "edgetunnel-us"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
@@ -9,5 +9,5 @@ keep_vars = true
 # ...
 [[kv_namespaces]]
 binding = "KV"
-id = "6e21ae4adbf747e99027ccdcabf12d2b"
+id = "a52f4258651c430bb521dbc9dd586e50"
 # ...
